@@ -5,8 +5,12 @@ It creates a hidden .git. This will be used to enable the directory to be a repo
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+It is allows for changes to be saved incrementally as per logic. So those reviewing these logs can recognize the logic in sets.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+The staging area allows you to review your work. For example the changes made to the current working directory and most recent commits. This allows an extra step to review to make sure that one logical change is committed.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
