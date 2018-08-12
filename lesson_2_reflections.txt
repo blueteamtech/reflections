@@ -17,6 +17,8 @@ It allows for experimentations without compromising the master branch.
 
 How do the diagrams help you visualize the branch structure?
 
+It allows you to see the non-linear paths of commits and there reachability per branch or lack thereof.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
